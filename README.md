@@ -4,7 +4,7 @@
 **Plugins:** Dev style, Spring boot dev
 
 [Visual studio](https://code.visualstudio.com/download)   
-**plugins:** Css formatter, Github theme, GitLens, I18 json editor, Material icon theme
+**Plugins:** Css formatter, Github theme, GitLens, I18 json editor, Material icon theme
 
 [Git](https://git-scm.com/downloads)   
 [Sourcetree](https://blog.sourcetreeapp.com/2018/04/24/sourcetree-for-windows-enterprise-now-available/) 
